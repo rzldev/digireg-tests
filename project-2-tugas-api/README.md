@@ -1,4 +1,4 @@
-# Task 1: Pengelolaan Buku Telepon
+# Task 2: Tugas REST API
 This project is developed using Django, make sure you have docker running in your system.
 
 ## Set up the project
@@ -8,4 +8,4 @@ Copy the main ```.env.example``` and rename it ```.env```, then fill in all the 
 You can run the project with ```./run.sh```, and ```./stop.sh``` to stop the project
 
 ## Accessing the project
-You can access and interact with the running application through ```localhost:8000/api/schema/```
+You can access and interact with the running application through ```https://localhost:8000/api/schema/```
