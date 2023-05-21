@@ -6,3 +6,6 @@ Copy the main ```.env.example``` and rename it ```.env```, then fill in all the 
 
 ## Run the project
 You can run the project with ```./run.sh```, and ```./stop.sh``` to stop the project
+
+## Accessing the project
+You can access and interact with the running application through ```localhost:8000/api/schema/```
